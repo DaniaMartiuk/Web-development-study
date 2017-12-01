@@ -1,0 +1,37 @@
+p {
+  color:#00FA9A;
+  font-famile: Arial,Verdana,Helvetica,sans-serif;
+  font-size:30px
+}
+.lists {
+  color:#696969;
+}
+#header {
+  color:#c23636;
+  font-famile: Arial,Verdana,Helvetica,sans-serif;
+  font-size;30px:
+  text-align:center;
+}
+h2 {
+  font-famile: Arial,Verdana,Helvetica,sans-serif;
+  font-size:24px
+
+}
+p span{
+  color:#d44a4a;
+}
+
+h2,h3{
+color:#243f7a
+}
+.bold-text{
+  font-weight:vold;
+}
+.italic-text{
+  font-style:italic;
+  font-weifht:bold;
+}
+.but {
+  height: 35px;
+  width: 35px;
+}
