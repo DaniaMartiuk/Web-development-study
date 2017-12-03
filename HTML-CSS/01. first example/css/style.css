@@ -1,27 +1,30 @@
-p {
-  color:#00FA9A;
-  font-famile: Arial,Verdana,Helvetica,sans-serif;
-  font-size:30px
+body{
+  color:#262626;
+  font:14px/1.5 Arial,Verdana,Tahoma,sans-serif;
 }
-.lists {
-  color:#696969;
+p {
+  text-indet:35px;
+}
+ol{
+  kist-style-type:;
+  ist-style-images:inside;
+  ist-style:upper-alpha inside;
+}
+ul{
+  list-style:url(../картинка/yes.png);
 }
 #header {
   color:#c23636;
-  font-famile: Arial,Verdana,Helvetica,sans-serif;
-  font-size;30px:
   text-align:center;
 }
 h2 {
-  font-famile: Arial,Verdana,Helvetica,sans-serif;
-  font-size:24px
-
+    text-align:center;
 }
-p span{
+p span {
   color:#d44a4a;
+  text-decoration:underline;
 }
-
-h2,h3{
+h2,h3 {
 color:#243f7a
 }
 .bold-text{
@@ -34,4 +37,22 @@ color:#243f7a
 .but {
   height: 35px;
   width: 35px;
+}
+.left-column{
+text-align:left;
+}
+a:link{
+color:#6190b8;
+}
+a:visited{
+  color:l#8eb861;
+}
+a:hover{
+  color:;#b86161;
+}
+a:active{
+color:#000000;
+}
+a:hover{
+  text-decoration:none;
 }
