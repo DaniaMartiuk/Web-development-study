@@ -28,3 +28,21 @@ p{
   margin-bottom:5px ;
   color:#aquamarine;
 }
+input[type="text"],input[type="password"],select,textarea{
+  font:12px,Arial,Verdana,Tahoma,sans-serif;
+  border:1px solid;
+}
+input[type="text"],input[type="password"]{
+  width:210px;
+  height:26px;
+  padding:0px 5px;
+}
+select{
+  width:210px;
+}
+textatia{
+  padding:5px;
+}
+input[type="image"]{
+  margin: 10px 0;
+}

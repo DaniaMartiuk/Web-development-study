@@ -1,0 +1,38 @@
+#wrapper{
+  width:900px;
+  border:1px solid #dbdbdb;
+  padding:10px;
+  margin:10px auto;
+}
+header{
+  height:100px;
+  background-color:#d4d720
+  margin-bottom:10px;
+}
+sildebar-left{
+  height:400px;
+  background-color:#d4d720
+  width:200px;
+  float:left;
+}
+sildebar-right{
+  height:400px;
+  background-color:#d4d720
+  width:200px;
+  float:right;
+content{
+  height:400px;
+  background-color:#d4d720
+  widht:480px;
+  margin-left:o auto;
+
+
+}
+foother{
+  height:100px;
+  background-color:#d4d720
+  margin-top:10px;
+}
+.clear{
+  clea:both;
+}

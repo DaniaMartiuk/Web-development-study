@@ -1,9 +1,16 @@
-body{
+body {
   color:#262626;
   font:14px/1.5 Arial,Verdana,Tahoma,sans-serif;
   margin:0;
-  background:#chartreuse (../images/main_bg.jpeg); no-repeat right top
+  background-image: url("images/main_bg.jpg");
+  background-color: #cccccc;
 }
+
+#author {
+  border: solid 1px black;
+  float:right;
+}
+
 p {
   text-indet:35px;
 }
