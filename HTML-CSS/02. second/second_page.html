@@ -6,40 +6,55 @@
   </head>
   <body>
     <form action="formdata.php" method="POST" name="form1">
-<fieldset>
-<legend>ввод личних данних</legend>
-      <p><label>Ведите ваше имя:<input type="text" name="name" size="30" maxlength="0"></label></p>
-      <p><label>Ведите ваш пароль:<input type="password" name="name" size="30" maxlength="0"></label></p>
-</fieldset>
-<fieldset>
-<legend>вапроси</legend>
-      <p>Любите ли ви економить время?</p>
-      <p><label>yes<input type="radio" name="time" value="yes" checked></label></p>
-      <p><label>no<input type="radio" name="time" value="no"></label></p>
-      <p>Какими средствами ви убеваете время?</p>
-      <p>
-        <label><input type="checkbox" name="ez">Пишу в ежедневник</label>
-        <label><input type="checkbox" name="ez">Читаю книгу</label>
-        <label><input type="checkbox" name="ez">Играю в видео игри</label>
-        <label><input type="checkbox" name="ez">делаю дела па дому</label>
-        <label><input type="checkbox" name="ez">сплю</label>
-        <label><input type="checkbox" name="ez">гуляю</label>
-      </p>
-      <p><label for="sleep">Сколька часов в день ви спите?</p>
-      <p>
-<select name="sleep" id="sleep">
-<option value="five">5</option>
-<option value="six">6</option>
-<option value="seven">7</option>
-<option value="eight">8</option>
-<option value="nine">9</option>
-<option selected value="random">я сплю по разному</option>
-</select>
-      </p>
-</legend>
-       <p><label for="text">Поделитесь нароботками  в економить время</p>
-<p><textarea name="time" cols="30" rows="6" maxlength="0" id="text">тестовий текст...</textarea></p>
-<p><input type="reset" name="reset" value="Сброс"><input type="submit" name="submit" value="Отправить"></p>
+
+      <fieldset>
+        <legend><h3>Ввод личних данних:</h3></legend>
+        <p><label>Ведите ваше имя: <input type="text" name="name" size="30" maxlength="0"></label></p>
+        <p><label>Ведите ваш пароль: <input type="password" name="name" size="30" maxlength="0"></label></p>
+      </fieldset>
+
+      <fieldset>
+        <legend><h3>Вапросы:</h3></legend>
+
+        <p><b>Любите ли ви економить время?</b></p>
+        <p><label>yes<input type="radio" name="time" value="yes" checked></label></p>
+        <p><label>no<input type="radio" name="time" value="no"></label></p>
+
+        <p><b>Какими средствами ви убеваете время?</b></p>
+        <p>
+          <label><input type="checkbox" name="ez">Пишу в ежедневник</label>
+          <label><input type="checkbox" name="ez">Читаю книгу</label>
+          <label><input type="checkbox" name="ez">Играю в видео игри</label>
+          <label><input type="checkbox" name="ez">делаю дела па дому</label>
+          <label><input type="checkbox" name="ez">сплю</label>
+          <label><input type="checkbox" name="ez">гуляю</label>
+        </p>
+
+        <fieldset>
+          <legend><b><label for="sleep">Сколька часов в день вы спите?</label></b></legend>
+          <p>
+            <select name="sleep" id="sleep">
+              <option value="five">5</option>
+              <option value="six">6</option>
+              <option value="seven">7</option>
+              <option value="eight">8</option>
+              <option value="nine">9</option>
+              <option value="random" selected>...я сплю по разному</option>
+            </select>
+          </p>
+        </fieldset>
+
+        <p><b><label for="text">Поделитесь Вашими нароботками  в економии времени:</b></p>
+        <p><textarea name="time" cols="30" rows="6" maxlength="0" id="text">тестовий текст...</textarea></p>
+        <p>
+          <input type="reset" name="reset" value="Сброс">
+          <button type="submit" name="submit" value="Отправить">
+            <img src="images/ibutton.png" style="height:20px">
+          </button>
+        </p>
+
+      </fieldset>
     </form>
+
   </body>
 </html>
