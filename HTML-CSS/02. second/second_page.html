@@ -7,11 +7,11 @@
   <body>
     <form action="formdata.php" method="GET" name="form1">
 
-      <fieldset>
+<fieldset>
         <legend><h3>Ввод личних данних:</h3></legend>
         <p><label>Ведите ваше имя: <input type="text" name="name" size="30" maxlength="4"></label></p>
         <p><label>Ведите ваш пароль: <input type="password" name="password" size="30" maxlength="4"></label></p>
-      </fieldset>
+</fieldset>
 
       <fieldset>
         <legend><h3>Вапросы:</h3></legend>
@@ -20,14 +20,11 @@
         <p><label>yes<input type="radio" name="time" value="yes" checked></label></p>
         <p><label>no<input type="radio" name="time" value="no"></label></p>
 
-        <p><b>Какими средствами ви убеваете время?</b></p>
+        <p><b>Какими инструментами <для> "економий" времени ви используете</b></p>
         <p>
-          <label><input type="checkbox" name="ez">Пишу в ежедневник</label>
-          <label><input type="checkbox" name="ez">Читаю книгу</label>
-          <label><input type="checkbox" name="ez">Играю в видео игри</label>
-          <label><input type="checkbox" name="ez">делаю дела па дому</label>
-          <label><input type="checkbox" name="ez">сплю</label>
-          <label><input type="checkbox" name="ez">гуляю</label>
+          <label><input type="checkbox" name="ez" disabled="disabled">ежедневник</label>
+          <label><input type="checkbox" name="hr" checked="checked">хронометраж</label>
+          <label><input type="checkbox" name="sv">свой наработки</label>
         </p>
 
         <fieldset>
