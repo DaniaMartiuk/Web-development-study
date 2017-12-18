@@ -1,6 +1,10 @@
 p,h4{
   color:#404040;
 }
+p{
+  font-family:"Courier New";
+  font-size:14px;
+}
 #header{
   background-color:red;
 }
@@ -12,4 +16,18 @@ p,h4{
 }
 #hello{
   color:orangered;
+}
+ol li{
+ color:#cc0000;
+}
+.new2{
+  font-style:italic;
+}
+.new3{
+  font-weight:100;
+}
+#bt{
+  margin:10px;
+  border: 3px solid crimson;
+  padding-left:15px;
 }
