@@ -1,33 +1,62 @@
-p,h4{
-  color:#404040;
+a {
+  text-decoration:none;
+  border-bottom:1px dashed #c32017;
+  border-top:1px dashed green;
+  border-left:1px dashed orange;
+  border-right :1px dashed purple;
+  line-height:150%;
+  color:#333333;
+  padding:2px;
 }
-p{
+p {
   font-family:"Courier New";
   font-size:14px;
+  text-indent:25px;
+  line-height:150%;
+  word-spacing:15px;
 }
-#header{
-  background-color:red;
+p, h4 {
+  color:#404040;
 }
-.new{
-  background-color:#6bc5e3;
-}
-#myList{
-  background-color:greenyellow;
-}
-#hello{
-  color:orangered;
-}
-ol li{
+ol li {
  color:#cc0000;
 }
-.new2{
-  font-style:italic;
-}
-.new3{
-  font-weight:100;
-}
-#bt{
+#bt {
   margin:10px;
   border: 3px solid crimson;
   padding-left:15px;
+}
+#header {
+  background-color:red;
+  text-align:center;
+  text-transform:capitalize;
+  border-top-width:2px;
+  border-top-style:solid;
+  border-top-color:#FAA21A;
+  border-bottom-width:2px;
+  border-bottom-style:solid;
+  border-bottom-color:#FAA21A;
+}
+#hello {
+   color:orangered;
+}
+#myList {
+  background-color:greenyellow;
+}
+.new {
+  background-color:#6bc5e3;
+  font-style:italic;
+  font-weight:bold;
+  font-size:16px;
+  font-family:Tahoma;
+}
+.new2 {
+  font-style:italic;
+}
+.new3 {
+  font-weight:100;
+  text-decoration:line-through;
+}
+.new4 {
+  text-align:justify;
 }
