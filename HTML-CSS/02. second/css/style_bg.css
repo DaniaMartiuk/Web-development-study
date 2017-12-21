@@ -1,0 +1,24 @@
+body{
+  background-image:url(../images/bg_city.jpg);
+  background-size: 1400px;
+}
+#main {
+  background-image:url(../images/pent_bg.jpg);
+  background-size: 100px;
+  border: 10px solid dimgrey;
+  border-radius: 25px;
+  height:120px;
+  margin:150px auto;
+  width:800px;
+}
+h1 {
+  color: orangered;
+  font:36px VERDANA;
+  font-weight: bold;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  outline:1px solid #mediumpurple;
+  text-align:center;
+}
+#logo {
+    height: 50px;
+}
