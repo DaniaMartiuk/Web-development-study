@@ -1,14 +1,16 @@
 body{
   background-image:url(../images/bg_city.jpg);
   background-size: 1400px;
+  margin:0;
+  padding:0;
 }
 #main {
   background-image:url(../images/pent_bg.jpg);
   background-size: 100px;
   border: 10px solid dimgrey;
   border-radius: 25px;
-  height:120px;
-  margin:150px auto;
+  height:990px;
+  margin:10px auto;
   width:800px;
 }
 h1 {
@@ -21,4 +23,7 @@ h1 {
 }
 #logo {
     height: 50px;
+}
+#wrapper{
+  background: url(../images/tel.jpg) no-repeat fixed 0 10px ;
 }

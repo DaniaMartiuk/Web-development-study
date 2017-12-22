@@ -1,0 +1,42 @@
+body{
+  font:11px verdana sans-serif;
+  color:#333333;
+}
+#wrapper{
+  width:500px;
+}
+.question{
+  font-weight:bold;
+}
+fieldset{
+  padding:10px;
+  margin:10px;
+  border:1px solid #cccccc
+  background-color:#FCFCFC;
+}
+textarea{
+  border:1px solid #333333;
+  background-color:#F4F9FF;
+  width:490px;
+  margin:2px 10px;
+}
+textarea:focus{
+  border:2px solid #1351B4;
+  background-color:#ffffff;
+}
+.tp{
+  margin-left:10pxs;
+}
+.input{
+  border:1px solid #333333;
+  height:27px;
+  width:270px;
+}
+.input:focus{
+  border:2px solid #1351B4;
+  background:none;
+  background-color:#ffffff;
+}
+label{
+  cursor:pointer; 
+}
