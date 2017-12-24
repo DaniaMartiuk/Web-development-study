@@ -4,7 +4,8 @@ body{
   margin:25px auto;
   padding:15px;
   width:1000px;
-  background-color:#f6f6f6;
+  background-color:#ffffff;
+  border:1px solid #cccccc;
 }
 p {
   text-indent:30px;
@@ -47,6 +48,12 @@ ul{
 #liSuper.new3 {
   color:crimson;
 }
+#myImg{
+  float:right;
+  border:none;
+  margin:20px 0 20px 50px;
+}
+
 table, td, th{
   border:1px solid #cccccc;
   text-align:center;
@@ -54,7 +61,7 @@ table, td, th{
 table{
   width:700px;
   border-collapse:collapse;
-  margin:0 auto; 
+  margin:0 auto;
 }
 td, th{
   height:50px;
