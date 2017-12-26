@@ -1,3 +1,5 @@
+@import url("ps.css");
+
 body{
   background-color:#D2D2D2;
   font:11px Verdana;
@@ -8,7 +10,7 @@ body{
   background-color:#F4F4F4;
   height:520;
   min-width:650px;
-  max-width:1100px; 
+  max-width:1100px;
 }
 #content{
   height:500px;
@@ -26,4 +28,10 @@ body{
   height:500px;
   float:right;
   outline:1px solid #cc0000;
+}
+#text{
+  padding:inherit;
+}
+#content{
+  padding:20px 30px; 
 }
