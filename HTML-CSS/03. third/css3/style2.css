@@ -1,0 +1,15 @@
+body{
+  background-color:blue; 
+}
+#page{
+	width:960px;
+	margin:0 auto;
+}
+.strpong-red{
+	color:red;
+	font-weight:bolder
+}
+.light-blue{
+	color:black;
+	font-weight:lighter;
+}
