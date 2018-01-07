@@ -61,19 +61,22 @@ body {
 #page{
   width:960px;
   margin:0 auto;
+  height:2000px;
 }
+
 
 #strong-red{
   font-weight:bolder;
   color:red;
   margin-top:400px;
   text-align:justify;
-	text-decoration:underline;
+  text-decoration:underline;
   text-transform:uppercase;
   text-indent:30px;
   letter-spacing:5px;
-  word-spacing:5px;
-  line-height:20px;
+  font-family:cursive;
+  font-style:italic;
+  font-variant:small-caps;
 }
 
  #styles li{
@@ -82,7 +85,106 @@ body {
    color:#fff;
    border:1px solid #fff;
  }
+#navigation{
+    height:65px;
+    position:relative;
+}
+#navigation ul li {
+  float:left;
+}
+#navigation ul li a {
+    color:#1a00a7;
+    padding:0 15px;
+    font-family:cursive;
+    text-decoration:none;
+    line-height:65px;
+    display:block;
+    height:65px;
+}
+#navigation ul li a:hover{
+    border:1px solid #00ff45;
+    background:#0000ff;
+    text-decoration:none;
+}
 
- #navigation{
- 	height:65px;
+
+
+#styles li{
+    list-style-type:circle;
+    color:black;
+    font-family:cursive;
+    list-style-position:inside;
+    list-style:circle;
+    border:1px solid black;
+    padding:5px;
+}
+#styles li:hover{
+    background:#4ab9f4;
+}
+#navigation .dropdown{
+    position:absolute;
+    top:100%;
+    width:150px;
+    background:#757575;
+    display:none;
+}
+#navigation li:hover .dropdown{
+    display:block;
+}
+#navigation .dropdown li {
+    width:100%;
+    height:45px;
+}
+#navigation .dropdown li a{
+    line-height:45px;
+     height:45px;
+}
+.logo {
+    display:block;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+
+#header {
+    height:204px;
+    position:relative;
+}
+
+.search {
+    position:absolute; 
+    right:0;
+    top:80px;
+}
+#article{
+    width:760px;    
+    padding-right:20px; 
+    padding-top:20px; 
+    float:left;
+}
+#sidebar{
+    padding-top:20px;
+    width:200px; 
+    float:left;
+}
+#article p {
+    color:#00ff45;
+    font-family:cursive; 
+}
+#sidebar ul li {
+    color:#00ff45;
+    font-family:cursive; 
+
+}
+#content{
+    padding-top:20px;
+}
+#fixed {
+    height:50px
+    width:50px
+    background-image:src(images/tel.jpg)
+    font-size:left;
+    position:fixed;
+    top:0;
+    left:0;
 }
