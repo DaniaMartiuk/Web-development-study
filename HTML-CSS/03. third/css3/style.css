@@ -32,6 +32,8 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+    background:#478cc9;
+    background-image: url(images/sprites.png);
 }
 
 ol, ul {
@@ -61,7 +63,7 @@ body {
 #page{
   width:960px;
   margin:0 auto;
-  height:2000px;
+  height:200px;
 }
 
 
@@ -162,6 +164,12 @@ body {
     padding-top:20px; 
     float:left;
 }
+#article p{
+    
+}
+
+
+
 #sidebar{
     padding-top:20px;
     width:200px; 
@@ -188,3 +196,98 @@ body {
     top:0;
     left:0;
 }
+
+.psevdo-class {
+    color:#ff0000;
+}
+.psevdo-class:hover{
+    color:#0080ff;
+}
+.psevdo-class:focus{
+    color:#d8ff00;
+}
+#article:hover{
+    background:#000000;
+}
+#article p:first-child{
+    color:#ffffff;
+}
+#article p:last-child{
+    color:#7b4141;
+}
+#article p {
+    background:#00e800; 
+}
+#article > p {
+    color:#000000;
+}
+
+.pseudo-el::before,
+.pseudo-el::after{    
+    content:""; 
+    display:block; 
+    width:100%;
+    height:1px;
+    background:#00fc4d; 
+    margin-bottom:10px; 
+    margin-top:10px; 
+}
+.first-line::first-line {
+    font-size:24px; 
+    color:#fff;
+ }
+.selection{
+    background:#ecff0a; 
+    color:#00ffc4;
+}
+#article .combinator + p {
+   background:#ffa700;    
+}
+a[target="_blank"] {
+    color:#ff0000;
+}
+a[title="внешняйа"] {
+    color:#31ff00;
+}
+input[type="text"]{
+  border:1px solid #ff0000;
+    color:#0088ff;
+    background:#ffff00; 
+}
+input[type="button"]{
+    border:1px solid #ff0000;
+    color:#0088ff;
+    background:#ffff00; 
+}
+
+.icon{
+    display:inline-block;
+    height:75px;
+    width:75px;
+    background-image: url("../images/sprites.png");
+}
+.icon.icon-car{
+    background-position:0 0; 
+}
+.icon.icon-car:hover{
+    background-position:0px -154px; 
+}
+.icon.icon-check{
+    background-position:77px 0; 
+}
+.icon.icon-check:hover{
+    background-position:77px -154px; 
+}
+.icon.icon-cart{
+    background-position:25% 0px; 
+}
+.icon.icon-cart:hover{
+    background-position:25% 66%; 
+}
+.icon.icon-comments{
+    background-position:155px 0; 
+}
+.icon.icon-comments:hover{
+    background-position:155px 66%; 
+}
+
