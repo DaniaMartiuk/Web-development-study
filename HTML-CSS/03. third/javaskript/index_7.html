@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+  <input type="text" name="length" id="length" placeholder="Длинна">
+  <input type="text" name="widht" id="widht" placeholder="Ширина">
+  <input type="text" name="height" id="height" placeholder="висота">
+  <input type="button" id="calculate" onclick="displayResult()" value="Расчитай обйом">
+  <br>
+
+  <p id="result"></p>
+  <script>
+    function displayResult() {
+      var length = document.getElementById('length').value;
+      var widht = document.getElementById('widht').value;
+      var height = document.getElementById('height').value;
+
+      document.getElementById('result').innerHTML = 'Площядь ровна:' + calculateSize(length, widht, height);
+    }
+
+    function calculateSize(length, widht, height) {
+      return length * widht * height;
+    }
+  </script>
+
+
+
+</body>
+
+</html>
