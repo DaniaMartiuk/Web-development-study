@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+  font-size: 10pt;
+  background-color: #ccc;
+  text-shadow: 0 1px #eee, 3px 3px 3px #000;
+}
+
+.big {
+  font-size: 1.3em;
+}
