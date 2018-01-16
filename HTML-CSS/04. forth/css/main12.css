@@ -1,0 +1,46 @@
+body {
+  font: 1em Arial Tahoma;
+  text-transform: uppercase;
+}
+
+.nav {
+  list-style: none;
+  padding: 0;
+  margin: 0
+}
+
+.nav li a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #bbb;
+  margin: 1px;
+  color: #fff;
+  padding-left: 15px;
+  cursor: pointer;
+}
+
+.nav li a::first-letter {
+  font-size: 1.1em;
+  line-height: 50px;
+  height: 50px;
+  position: relative;
+}
+
+.nav li a:first-letter::before {
+  content: "";
+  position: absolute;
+  display: block;
+  height: 32px;
+  width: 32px;
+}
+
+/* .main-menu a:first-child::before {
+  background: url(images/web.png) center no-repeat;
+} */
+
+.main-menu a:first-child::before {
+  content: url(../images/home.png);
+  padding-right: 5px;
+}
