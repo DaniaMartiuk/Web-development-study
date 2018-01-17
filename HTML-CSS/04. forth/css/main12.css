@@ -6,19 +6,42 @@ body {
 .nav {
   list-style: none;
   padding: 0;
-  margin: 0
+  margin: 30px;
+  width: 50px;
+  opacity: .5;
+}
+
+.nav:hover {
+  opacity: 1;
+}
+
+.nav li {
+  height: 48px;
+  width: 47px;
+  overflow: hidden;
+  transition: width .500s ease-in-out, height .500s ease-in-out .500s;
+}
+
+.nav li:hover {
+  width: 200px;
+  height: 165px;
 }
 
 .nav li a {
   display: block;
   width: 200px;
-  height: 40px;
+  height: 41px;
   line-height: 40px;
   background-color: #bbb;
-  margin: 1px;
+  margin: 0px;
   color: #fff;
   padding-left: 15px;
   cursor: pointer;
+  transition: background .500s ease-in-out;
+}
+
+.nav li a:hover {
+  background-color: #2cf5ff;
 }
 
 .nav li a::first-letter {
@@ -34,13 +57,21 @@ body {
   display: block;
   height: 32px;
   width: 32px;
+  top: 2px;
 }
 
-/* .main-menu a:first-child::before {
-  background: url(images/web.png) center no-repeat;
-} */
+.setting a:first-child::before {
+  content: url(../images/settings.png);
+}
+
+.link a:first-child::before {
+  content: url(../images/link.png);
+}
 
 .main-menu a:first-child::before {
   content: url(../images/home.png);
-  padding-right: 5px;
+}
+
+.search a:first-child::before {
+  content: url(../images/search_0.png);
 }

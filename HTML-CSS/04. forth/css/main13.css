@@ -1,0 +1,10 @@
+.container {
+  width: 400px;
+  height: 300px;
+  float: left;
+  margin: 40px;
+  background-color: #999;
+  border-radius: 5px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, .6);
+  background: linear-gradient( #333, #bbb);
+}
