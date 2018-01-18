@@ -1,0 +1,22 @@
+body {
+  background-color: greenyellow;
+  font: 1em Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+  font-family: PTsans;
+  src: url(ptsans.ttf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: PTsans;
+  src: url(ptsans_bold.ttf);
+  font-weight: bold;
+}
+
+.label {
+  font-family: PTsans, Arial;
+  font-size: 2.4em;
+  text-shadow: 0 1px 0 white;
+}
