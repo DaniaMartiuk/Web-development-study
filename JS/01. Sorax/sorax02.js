@@ -1,0 +1,1 @@
+var  myVarible = 20,myAntherVarible = 30;
