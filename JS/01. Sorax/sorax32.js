@@ -1,0 +1,1 @@
+  var w = window.open("http://color.romanuke.com/category/krasnyiy/");
