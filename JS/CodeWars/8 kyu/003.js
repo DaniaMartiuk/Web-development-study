@@ -33,3 +33,9 @@ for (var i = 0; i < arr.length; i++){
 // console.log(arr[3]);
 // console.log(arr[4]);
 // console.log(arr[5]);
+
+
+
+
+
+var newArray = array.concat()
