@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="914cb902-c98f-444d-97b3-a2e3684eeafb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/8 kyu/007.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/8 kyu/prompt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/.eslintrc.json.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/001.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/002.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/003.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/004.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/005 if - else.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/005 rrr].js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/005.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/006_-2_.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/006_-_.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/007.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/008.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/levels.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,30 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="007.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8 kyu/007.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="008.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8 kyu/008.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,6 +61,7 @@
         <option value="$PROJECT_DIR$/8 kyu/prompt.js" />
         <option value="$PROJECT_DIR$/8 kyu/007.js" />
         <option value="$PROJECT_DIR$/8 kyu/008.js" />
+        <option value="$PROJECT_DIR$/8 kyu/009.js" />
       </list>
     </option>
   </component>
@@ -91,8 +78,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1606" />
-    <option name="y" value="-294" />
+    <option name="x" value="556" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -114,7 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,22 +109,17 @@
               <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="8 kyu" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/8 kyu/.eslintrc.json.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
@@ -216,17 +198,17 @@
       <workItem from="1521559673738" duration="11360000" />
       <workItem from="1521625695454" duration="17000" />
       <workItem from="1521625744024" duration="12677000" />
+      <workItem from="1521715705220" duration="2454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63690000" />
+    <option name="totallyTimeSpent" value="66144000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1368" y="-289" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2514706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -256,6 +238,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/8 kyu/007.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/008.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/007.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -403,11 +401,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/levels.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/002.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -486,6 +479,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/8 kyu/008.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/8 kyu/007.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -494,13 +495,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8 kyu/008.js">
+    <entry file="file://$PROJECT_DIR$/8 kyu/009.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/levels.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bla">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
