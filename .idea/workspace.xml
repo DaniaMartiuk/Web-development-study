@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec4cee4a-c66a-48e0-873f-e44d772d402e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/02. Hexlet/03.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/02. Hexlet/04.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/02. Hexlet/05.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/02. Hexlet/06.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/02. Hexlet/07.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/02. Hexlet/08.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/02. Hexlet/09.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/02. Hexlet/10.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/001.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/002.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/003.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/004.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/005.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore_global" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/JS/02. Hexlet/02.js" afterPath="$PROJECT_DIR$/JS/02. Hexlet/02.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,13 +51,23 @@
         <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/004.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="005.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore_global" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore_global">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="005.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/005.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -115,6 +111,8 @@
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/003.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/004.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/005.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore_global" />
       </list>
     </option>
   </component>
@@ -250,12 +248,12 @@
       <updated>1521745399918</updated>
       <workItem from="1521745401884" duration="1152000" />
       <workItem from="1521785671115" duration="11838000" />
-      <workItem from="1521829030506" duration="1129000" />
+      <workItem from="1521829030506" duration="1413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14119000" />
+    <option name="totallyTimeSpent" value="14403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -406,18 +404,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/004.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/005.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/004.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore_global">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
