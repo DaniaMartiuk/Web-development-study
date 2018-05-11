@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5125de3-0a69-4cc9-b447-e804e8612de3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/238.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/241.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/242.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/240.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/240.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +18,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +35,9 @@
       <list>
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/236.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/238.js" />
+        <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/240.js" />
+        <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/241.js" />
+        <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/242.js" />
       </list>
     </option>
   </component>
@@ -133,11 +145,13 @@
       <updated>1525458471583</updated>
       <workItem from="1525458475517" duration="1004000" />
       <workItem from="1525804845891" duration="629000" />
+      <workItem from="1525976431671" duration="590000" />
+      <workItem from="1526064649257" duration="157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1633000" />
+    <option name="totallyTimeSpent" value="2380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -186,6 +200,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/240.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/241.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/242.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
