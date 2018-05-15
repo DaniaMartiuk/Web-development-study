@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5125de3-0a69-4cc9-b447-e804e8612de3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/243.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/245.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,9 +15,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="244.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/244.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="245.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/245.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -44,6 +43,7 @@
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/242.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/243.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/244.js" />
+        <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/245.js" />
       </list>
     </option>
   </component>
@@ -154,11 +154,12 @@
       <workItem from="1525976431671" duration="590000" />
       <workItem from="1526064649257" duration="157000" />
       <workItem from="1526311152167" duration="1202000" />
+      <workItem from="1526407715167" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3582000" />
+    <option name="totallyTimeSpent" value="4204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -239,7 +240,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/244.js">
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/245.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
