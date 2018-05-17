@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5125de3-0a69-4cc9-b447-e804e8612de3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/246.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/247.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,7 +16,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="247.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/247.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,6 +50,7 @@
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/244.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/245.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/246.js" />
+        <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/247.js" />
       </list>
     </option>
   </component>
@@ -151,14 +163,17 @@
       <workItem from="1526311152167" duration="1202000" />
       <workItem from="1526407715167" duration="622000" />
       <workItem from="1526480665360" duration="637000" />
+      <workItem from="1526497206785" duration="100000" />
+      <workItem from="1526580990942" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4841000" />
+    <option name="totallyTimeSpent" value="4989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -236,6 +251,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/246.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/247.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
