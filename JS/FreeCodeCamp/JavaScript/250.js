@@ -1,8 +1,3 @@
-function defineSuit(card) {
-    return {
-        '♣' : 'clubs',
-        '♦' : 'diamonds',
-        '♥' : 'hearts',
-        '♠' : 'spades'
-    }[card.substr(-1)]
+function sumStr(a,b) {
+    return String(Number(a)+Number(b));
 }

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5125de3-0a69-4cc9-b447-e804e8612de3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/249.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/251.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/250.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/250.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="249.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/249.js">
+    <leaf>
+      <file leaf-file-name="251.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/251.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -52,6 +54,8 @@
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/247.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/248.js" />
         <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/249.js" />
+        <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/250.js" />
+        <option value="$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/251.js" />
       </list>
     </option>
   </component>
@@ -71,17 +75,16 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1368" />
-    <option name="y" value="-193" />
-    <option name="width" value="1376" />
-    <option name="height" value="744" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +120,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,17 +172,19 @@
       <workItem from="1526580990942" duration="48000" />
       <workItem from="1526667117946" duration="39000" />
       <workItem from="1526933418008" duration="44000" />
+      <workItem from="1527013638448" duration="633000" />
+      <workItem from="1527101810049" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5072000" />
+    <option name="totallyTimeSpent" value="5738000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1368" y="-193" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24264705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24158126" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -204,6 +210,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/249.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/248.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -288,10 +301,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/250.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/249.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/FreeCodeCamp/JavaScript/251.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
