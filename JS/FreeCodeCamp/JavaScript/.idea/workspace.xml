@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="259.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/259.js">
+      <file leaf-file-name="262.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/262.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="2" selection-end-column="1" />
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -34,6 +34,8 @@
         <option value="$PROJECT_DIR$/257.js" />
         <option value="$PROJECT_DIR$/258.js" />
         <option value="$PROJECT_DIR$/259.js" />
+        <option value="$PROJECT_DIR$/260.js" />
+        <option value="$PROJECT_DIR$/261.js" />
       </list>
     </option>
   </component>
@@ -52,7 +54,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -120,14 +122,15 @@
       <workItem from="1527620416611" duration="622000" />
       <workItem from="1527696074279" duration="642000" />
       <workItem from="1527700184067" duration="1204000" />
+      <workItem from="1527746994639" duration="954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5112000" />
+    <option name="totallyTimeSpent" value="6066000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
@@ -156,6 +159,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/259.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/259.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -216,6 +226,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/260.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/261.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/262.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
