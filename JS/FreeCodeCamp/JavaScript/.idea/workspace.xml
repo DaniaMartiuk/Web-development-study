@@ -14,9 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="306.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="304.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/304.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="305.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/305.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="306.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/306.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="91" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -72,6 +94,7 @@
         <option value="$PROJECT_DIR$/303.js" />
         <option value="$PROJECT_DIR$/304.js" />
         <option value="$PROJECT_DIR$/305.js" />
+        <option value="$PROJECT_DIR$/306.js" />
       </list>
     </option>
   </component>
@@ -90,7 +113,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -179,15 +202,15 @@
       <workItem from="1529748835614" duration="182000" />
       <workItem from="1531137047754" duration="2075000" />
       <workItem from="1531205663061" duration="1941000" />
-      <workItem from="1531284025023" duration="1320000" />
+      <workItem from="1531284025023" duration="2034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32164000" />
+    <option name="totallyTimeSpent" value="32878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25036603" />
@@ -552,13 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/304.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/305.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -567,7 +583,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/306.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="91" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/304.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
