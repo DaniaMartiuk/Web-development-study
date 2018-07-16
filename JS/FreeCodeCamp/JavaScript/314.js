@@ -4,4 +4,3 @@ function monkeyCount(n) {
         monkeys.push(i);
     }
     return monkeys;
-}
