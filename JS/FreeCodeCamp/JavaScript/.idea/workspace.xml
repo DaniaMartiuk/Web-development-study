@@ -14,9 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="327.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="325.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/325.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="326.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/326.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="327.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/327.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -31,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/277.js" />
         <option value="$PROJECT_DIR$/276.js" />
         <option value="$PROJECT_DIR$/278.js" />
         <option value="$PROJECT_DIR$/279.js" />
@@ -80,8 +101,9 @@
         <option value="$PROJECT_DIR$/323.js" />
         <option value="$PROJECT_DIR$/324.js" />
         <option value="$PROJECT_DIR$/322.js" />
-        <option value="$PROJECT_DIR$/325.js" />
         <option value="$PROJECT_DIR$/326.js" />
+        <option value="$PROJECT_DIR$/327.js" />
+        <option value="$PROJECT_DIR$/325.js" />
       </list>
     </option>
   </component>
@@ -100,7 +122,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1380" />
     <option name="height" value="735" />
@@ -196,15 +218,16 @@
       <workItem from="1531909996333" duration="1234000" />
       <workItem from="1531985600802" duration="1399000" />
       <workItem from="1531992408581" duration="226000" />
-      <workItem from="1532073051634" duration="1854000" />
+      <workItem from="1532073051634" duration="2263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48453000" />
+    <option name="totallyTimeSpent" value="48862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25073314" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -575,15 +598,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/327.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/325.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/327.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
