@@ -14,26 +14,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="333.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/333.js">
+      <file leaf-file-name="337.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/337.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="334.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/334.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="335.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/335.js">
+      <file leaf-file-name="338.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/338.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
@@ -53,9 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/285.js" />
-        <option value="$PROJECT_DIR$/286.js" />
-        <option value="$PROJECT_DIR$/287.js" />
         <option value="$PROJECT_DIR$/288.js" />
         <option value="$PROJECT_DIR$/289.js" />
         <option value="$PROJECT_DIR$/290.js" />
@@ -101,9 +89,12 @@
         <option value="$PROJECT_DIR$/331.js" />
         <option value="$PROJECT_DIR$/332.js" />
         <option value="$PROJECT_DIR$/330.js" />
-        <option value="$PROJECT_DIR$/333.js" />
         <option value="$PROJECT_DIR$/334.js" />
         <option value="$PROJECT_DIR$/335.js" />
+        <option value="$PROJECT_DIR$/333.js" />
+        <option value="$PROJECT_DIR$/337.js" />
+        <option value="$PROJECT_DIR$/338.js" />
+        <option value="$PROJECT_DIR$/339.js" />
       </list>
     </option>
   </component>
@@ -221,12 +212,13 @@
       <workItem from="1532073051634" duration="2263000" />
       <workItem from="1532331546952" duration="2092000" />
       <workItem from="1532423932190" duration="1496000" />
-      <workItem from="1532504474299" duration="1901000" />
+      <workItem from="1532504474299" duration="2132000" />
+      <workItem from="1532608184987" duration="1505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54351000" />
+    <option name="totallyTimeSpent" value="56087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
@@ -258,34 +250,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/283.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/288.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/286.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/287.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/289.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -597,7 +561,7 @@
     <entry file="file://$PROJECT_DIR$/333.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -609,6 +573,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/335.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/336.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/339.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/337.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/338.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
