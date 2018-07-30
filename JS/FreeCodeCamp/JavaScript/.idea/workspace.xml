@@ -14,9 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="345.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/345.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="343.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/343.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -202,12 +206,12 @@
       <workItem from="1532504474299" duration="2132000" />
       <workItem from="1532608184987" duration="1505000" />
       <workItem from="1532683767371" duration="1984000" />
-      <workItem from="1532936114344" duration="952000" />
+      <workItem from="1532936114344" duration="1622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59023000" />
+    <option name="totallyTimeSpent" value="59693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="735" extended-state="1" />
@@ -575,13 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/343.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/344.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -590,7 +587,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/345.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/343.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
